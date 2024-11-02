@@ -4,7 +4,17 @@ PDFRepair Tool using PyPDF.
 
 ## Installation
 
+### Using pip
+
 ```bash
+pip install PDF-Repair
+```
+
+### Manual Installation
+
+```bash
+git clone https://github.com/obtuse-triangle/PDFRepair-PyPDF.git
+cd PDFRepair-PyPDF
 python3 setup.py install
 ```
 
